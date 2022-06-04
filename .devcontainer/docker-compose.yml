@@ -38,6 +38,6 @@ services:
     networks:
       - dev-env
 volumes:
-  mysqldata-nems: {}
+  mysqldata-nickwatt: {}
 networks:
   dev-env: {}
